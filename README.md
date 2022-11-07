@@ -13,7 +13,7 @@ Tom's personal projects express his passion for technology, where he has created
 
 <h4>🏆 Achievements</h4>
 <ul>
-  <li>57,400+ Perosnal App Downloads</li>
+  <li>57,400+ Personal App Downloads</li>
   <li>97.8 ATAR</li>
 </ul>
 
