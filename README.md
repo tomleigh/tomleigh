@@ -1,15 +1,18 @@
 <h3>Tom Leigh</h3>
 
-<h4>🎓 Education</h4>
-Tom is currently in his third year of university, studying a Bachelor of Advanced Computing and Bachelor of Commerce at the University of Sydney, with majors in computer science and finance.
+Hi! I’m Tom. I am currently in my fourth year of university, studying a Bachelor of Advanced Computing and Bachelor of Commerce at the University of Sydney, with majors in computer science and finance.
 
 <h4>👨‍💻 Professional Work</h4>
-His professional experience to date includes development of a cross-platform (iOS and Android) student goal app 'voyage', with key features including peer-to-peer messaging through Firebase, push-notifications through Node.js, and cloud data storage in Google Cloud. 
-<br/><br/>
-Furthermore, Tom has also completed work in website development, design and optimisation. Utilising technologies including HTML, CSS and Javascript. This role provided Tom with experience in integrating new software into the existing company CRM, in which he learned the HubL templating language to allow company designers drag-and-drop the modular website elements he created.
+My professional experience to date includes development of a cross-platform (iOS and Android) mobile application in C#, in which I proudly developed features including peer-to-peer messaging, push-notifications, and cloud data storage.
 
-<h4>✏️ Personal Projects</h4>
-Tom's personal projects express his passion for technology, where he has created multiple 3D mobile applications from self-taught software skills in C#. In these projects, Tom has achieved over 57,400 accumulative downloads, with a global audience including the UK, France, Germany, and Canada.
+Furthermore, I have also worked professionally in website development, design, and SEO to create the aschoolfortomorrow.com website. I achieved Google Lighthouse scores of 100% for best practices, and 99% for desktop performance. 
+
+<h4>✏️ Personal Projects & Interests</h4>
+My passion for technology extends beyond a professional scope – in which I have explored personal projects in mobile development, cloud computing, AI and more. I am incredibly proud to have created multiple 3D mobile applications from self-taught software skills, achieving over 57,400 accumulative downloads from a global audience.
+
+My personal interests include guitar, surfing, and travel. I love living an active lifestyle and have recently had the opportunity to climb Everest Base Camp and summit Kala Patthar in the Himalayas. 
+
+Thanks for viewing my GitHub profile and I warmly invite you to reach out if you would like to know anything more about me.
 
 <h4>🏆 Achievements</h4>
 <ul>
