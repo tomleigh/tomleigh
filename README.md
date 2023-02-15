@@ -5,10 +5,10 @@ Hi! I’m Tom. I am currently in my fourth year of university, studying a Bachel
 <h4>👨‍💻 Professional Work</h4>
 My professional experience to date includes development of a cross-platform (iOS and Android) mobile application in C#, in which I proudly developed features including peer-to-peer messaging, push-notifications, and cloud data storage.
 
-Furthermore, I have also worked professionally in website development, design, and SEO to create the [aschoolfortomorrow.com](https://www.aschoolfortomorrow.com) website. I achieved Google Lighthouse scores of 100% for best practices, and 99% for desktop performance. 
+Furthermore, I have also worked professionally in website development, design, and SEO to create the [aschoolfortomorrow.com](https://www.aschoolfortomorrow.com) website. I achieved _Google Lighthouse_ scores of **100% for best practices**, and **99% for desktop performance**. 
 
 <h4>✏️ Personal Projects & Interests</h4>
-My passion for technology extends beyond a professional scope – in which I have explored personal projects in mobile development, cloud computing, AI and more. I am incredibly proud to have created multiple 3D mobile applications from self-taught software skills, achieving over 57,400 accumulative downloads from a global audience.
+My passion for technology extends beyond a professional scope – in which I have explored personal projects in mobile development, cloud computing, AI and more. I am incredibly proud to have created multiple 3D mobile applications from self-taught software skills, achieving over **57,400 accumulative downloads** from a global audience.
 
 My personal interests include guitar, surfing, and travel. I love living an active lifestyle and have recently had the opportunity to climb Everest Base Camp and summit Kala Patthar in the Himalayas. 
 
