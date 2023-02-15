@@ -21,7 +21,7 @@ Thanks for viewing my GitHub profile and I warmly invite you to reach out if you
 </ul>
 
 <h4>Languages</h4>
-<h5>Proficient</h5>
+**Proficient**
 <table>
   <tr>
     <td>Java</td>
@@ -32,7 +32,7 @@ Thanks for viewing my GitHub profile and I warmly invite you to reach out if you
     <td>SQL</td>
   </tr>
 </table>
-<h5>Familiar</h5>
+**Familiar**
 <table>
   <tr>
     <td>Javascript</td>
@@ -41,6 +41,7 @@ Thanks for viewing my GitHub profile and I warmly invite you to reach out if you
     <td>React</td>
   </tr>
 </table>
+  
   
 <h4>Skills</h4>
   <table>
