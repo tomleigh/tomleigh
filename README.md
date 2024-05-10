@@ -1,6 +1,6 @@
 <h3>Tom Leigh</h3>
 
-Hi! I’m Tom. I am currently in my fourth year of university, studying a Bachelor of Advanced Computing and Bachelor of Commerce at the University of Sydney, with majors in computer science and finance.
+Hi! I’m Tom. I am currently in my fifth (final) year of university, studying a Bachelor of Advanced Computing and Bachelor of Commerce at the University of Sydney, with majors in computer science and finance.
 
 <h4>👨‍💻 Professional Work</h4>
 My professional experience to date includes development of a cross-platform (iOS and Android) mobile application in C#, in which I proudly developed features including peer-to-peer messaging, push-notifications, and cloud data storage.
