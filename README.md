@@ -1,73 +1,57 @@
-<h3>Tom Leigh</h3>
+# Tom Leigh
 
-Hi! I’m Tom. I am currently in my fifth (final) year of university, studying a Bachelor of Advanced Computing and Bachelor of Commerce at the University of Sydney, with majors in computer science and finance.
+## 👋 About Me
+Hi! I’m Tom. I'm currently in my fifth (and final) year at the University of Sydney, pursuing a Bachelor of Advanced Computing and Bachelor of Commerce, with majors in Computer Science and Finance.
 
-<h4>👨‍💻 Professional Work</h4>
-My professional experience to date includes development of a cross-platform (iOS and Android) mobile application in C#, in which I proudly developed features including peer-to-peer messaging, push-notifications, and cloud data storage.
+## 👨‍💻 Professional Experience
+**Software Engineer at ASIGA (March 2024 - Present)**
+- Developed a Python 3D geometry latticing algorithm for my university capstone project, leading to a successful graduate position.
+- Responsible for developing a 3D web platform for designing and modifying 3D printable dental models.
 
-Furthermore, I have also worked professionally in website development, design, and SEO to create the [aschoolfortomorrow.com](https://www.aschoolfortomorrow.com) website. I achieved _Google Lighthouse_ scores of **100% for best practices**, and **99% for desktop performance.** 
+**Software Developer Intern at Ernst & Young (EY) (Nov 2023 - Feb 2024)**
+- Developed an AI real-time HR call assistant using Azure OpenAI.
+- Built a continuous integration pipeline with Azure App Service and DevOps.
 
-<h4>✏️ Personal Projects & Interests</h4>
-My passion for technology extends beyond a professional scope – in which I have explored personal projects in mobile development, cloud computing, AI and more. I am incredibly proud to have created multiple 3D mobile applications from self-taught software skills, achieving over **57,400** accumulative downloads from a global audience.
+**Junior Software Developer at A School For Tomorrow (Jul 2021 - Jun 2023)**
+- Designed and developed the company website using HTML, CSS, and JavaScript, achieving Google Lighthouse scores of 100% for best practices and 99% for desktop performance.
+- Improved mobile SEO performance score by 23%.
+- Developed a C# mobile app with in-app messaging, user authentication, cloud data storage, and push notifications using Google Cloud Functions, Node.js, and Firebase.
 
-My personal interests include guitar, surfing, and travel. I love living an active lifestyle and have recently had the opportunity to climb Everest Base Camp and summit Kala Patthar in the Himalayas. 
+## ✏️ Projects
+**Thesis: AI Study Assistant**
+- Developing an AI tool to generate interactive study materials for students.
+- Hosted on AWS with a PostgreSQL database, utilizing Google Gemini and OpenAI’s APIs.
 
-Thanks for viewing my GitHub profile and I warmly invite you to reach out if you would like to know anything more about me.
+**Mobile Applications (Casual Games)**
+- Published iOS and Android applications with over 57,400 downloads.
+- Integrated Apple Game Centre, advertisements, and game analytics.
 
-<h4>🏆 Achievements</h4>
-<ul>
-  <li>57,400+ Personal App Downloads</li>
-  <li>97.8 ATAR</li>
-</ul>
+**3D Geometry Latticing Algorithm**
+- Created a university group project to convert 3D objects into lattices.
+- Implemented Poisson Disk Sampling in 3D, Voronoi latticing, and tiling approaches, supporting complex geometries.
 
-<h4>Languages</h4>
-Proficient
-<table>
-  <tr>
-    <td>Java</td>
-    <td>C#</td> 
-    <td>Python</td>
-    <td>HTML</td>
-    <td>CSS</td> 
-    <td>SQL</td>
-  </tr>
-</table>
-Familiar
-<table>
-  <tr>
-    <td>Javascript</td>
-    <td>Node.js</td> 
-    <td>C</td>
-    <td>React</td>
-  </tr>
-</table>
-  
-  
-<h4>Skills</h4>
-  <table>
-  <tr>
-    <td>Communication</td>
-    <td>Project Management</td> 
-    <td>Reliability</td>
-    <td>Adobe Creative Cloud</td>
-  </tr>
-</table>
+## 🏆 Achievements
+- **57,400+ Personal App Downloads**
+- **97.8 ATAR**
 
-<h4>Contact</h4>
-  <table>
-  <tr>
-    <td>Email: tomleigh2000@gmail.com</td>
-  </tr>
-  <tr>
-    <td><a href="www.linkedin.com/in/tomleigh2000">LinkedIn Profile</a></td>
-  </tr>
-</table>
+## 🛠 Skills
+**Proficient In:**
+- React, Python, JavaScript, HTML/CSS, SQL
 
-<h4>Fun Fact</h4>
-In January 2023 I had the incredible opportunity to travel to Nepal, to hike the **Everest Base Camp** Trek. I summitted Kala Patthar at 5550m above sea level.
+**Familiar With:**
+- C, C#, Java
 
-  
-<!---
-tomleigh/tomleigh is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+**Other Skills:**
+- Communication, Problem Solving, Reliability
+
+## 🌐 Links
+- [LinkedIn Profile](https://www.linkedin.com/in/tomleigh2000)
+- [Mobile Applications on App Store](https://apps.apple.com/us/developer/tom-leigh/id1449101374)
+
+## 🎸 Interests
+Outside of my professional work, I enjoy playing guitar, surfing, and traveling. Recently, I hiked to Everest Base Camp and summitted Kala Patthar in the Himalayas.
+
+## 📫 Contact
+- **Email:** tomleigh2000@gmail.com
+
+Thanks for visiting my GitHub profile! Feel free to reach out if you'd like to connect or know more about my work.
